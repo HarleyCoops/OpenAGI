@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# User notes and generated data
+notes/
+*.log
